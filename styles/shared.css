@@ -18,6 +18,6 @@ a {
     color: rgb(167, 1, 78);
 }
 
-a :hover {
+a:hover {
     text-decoration: underline;
 }
