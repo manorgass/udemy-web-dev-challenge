@@ -37,6 +37,7 @@ li {
     border-radius: 6px;
     margin: 32px;
     padding: 16px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.2);
 }
 
 h2 {
@@ -47,4 +48,8 @@ h2 {
 main p {
     margin: 12px;
     color: rgb(71, 29, 22);
+}
+
+.highlight-goal {
+    background-color: rgb(181, 113, 106);
 }
